@@ -1,0 +1,164 @@
+{"task_id": "Java/0", "the_input": "has_close_elements(Arrays.asList(1.0, 2.8, 3.0, 4.0, 5.0, 2.0), 0.3);"}
+{"task_id": "Java/1", "the_input": "separate_paren_groups(\"( ) (( )) (( )( ))\");"}
+{"task_id": "Java/2", "the_input": "truncate_number(3.5);"}
+{"task_id": "Java/3", "the_input": "below_zero(Arrays.asList(1, 2, -4, 5));"}
+{"task_id": "Java/4", "the_input": "mean_absolute_deviation(Arrays.asList(1.0, 2.0, 3.0, 4.0));"}
+{"task_id": "Java/5", "the_input": "intersperse(Arrays.asList(1, 2, 3), 4);"}
+{"task_id": "Java/6", "the_input": "parse_nested_parens(\"(()()) ((())) () ((())()())\");"}
+{"task_id": "Java/7", "the_input": "filter_by_substring(Arrays.asList(\"abc\", \"bacd\", \"cde\", \"array\"), \"a\");"}
+{"task_id": "Java/8", "the_input": "sum_product(Arrays.asList(1, 2, 3, 4));"}
+{"task_id": "Java/9", "the_input": "rolling_max(Arrays.asList(1, 2, 3, 2, 3, 4, 2));"}
+{"task_id": "Java/10", "the_input": "make_palindrome(\"example\");"}
+{"task_id": "Java/11", "the_input": "string_xor(\"010\", \"110\");"}
+{"task_id": "Java/12", "the_input": "longest(Arrays.asList(\"a\", \"bb\", \"ccc\"));"}
+{"task_id": "Java/13", "the_input": "greatest_common_divisor(3, 5);"}
+{"task_id": "Java/14", "the_input": "all_prefixes(\"abc\");"}
+{"task_id": "Java/15", "the_input": "string_sequence(5);"}
+{"task_id": "Java/16", "the_input": "count_distinct_characters(\"xyzXYZ\");"}
+{"task_id": "Java/17", "the_input": "parse_music(\"o o| .| o| o| .| .| .| .| o o\");"}
+{"task_id": "Java/18", "the_input": "how_many_times(\"aaaa\", \"aa\");"}
+{"task_id": "Java/19", "the_input": "sort_numbers(\"three one five\");"}
+{"task_id": "Java/20", "the_input": "find_closest_elements(Arrays.asList(1.0, 2.0, 3.0, 4.0, 5.0, 2.2));"}
+{"task_id": "Java/21", "the_input": "rescale_to_unit(Arrays.asList(1.0, 2.0, 3.0, 4.0, 5.0));"}
+{"task_id": "Java/22", "the_input": "filter_integers(Arrays.asList('a', 3.14, 5));"}
+{"task_id": "Java/23", "the_input": "strlen(\"example\");"}
+{"task_id": "Java/24", "the_input": "largest_divisor(15);"}
+{"task_id": "Java/25", "the_input": "factorize(8);"}
+{"task_id": "Java/26", "the_input": "remove_duplicates(Arrays.asList(1, 2, 3, 2, 4));"}
+{"task_id": "Java/27", "the_input": "flip_case(\"Hello\");"}
+{"task_id": "Java/28", "the_input": "concatenate(Arrays.asList(\"a\", \"b\", \"c\"));"}
+{"task_id": "Java/29", "the_input": "filter_by_prefix(Arrays.asList(\"abc\", \"bcd\", \"cde\", \"array\"), \"a\");"}
+{"task_id": "Java/30", "the_input": "get_positive(Arrays.asList(-1, 2, -4, 5, 6));"}
+{"task_id": "Java/31", "the_input": "is_prime(7);"}
+{"task_id": "Java/32", "the_input": "find_zero(Arrays.asList(1.0, 2.0));"}
+{"task_id": "Java/33", "the_input": "sort_third(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9));"}
+{"task_id": "Java/34", "the_input": "unique(Arrays.asList(5, 3, 5, 2, 3, 3, 9, 0, 123));"}
+{"task_id": "Java/35", "the_input": "max_element(Arrays.asList(5, 3, -5, 2, -3, 3, 9, 0, 123, 1, -10));"}
+{"task_id": "Java/36", "the_input": "fizz_buzz(50);"}
+{"task_id": "Java/37", "the_input": "sort_even(Arrays.asList(5, 6, 3, 4));"}
+{"task_id": "Java/38", "the_input": "decode_cyclic(\"bcaefdhgi\");"}
+{"task_id": "Java/39", "the_input": "prime_fib(5);"}
+{"task_id": "Java/40", "the_input": "triples_sum_to_zero(Arrays.asList(1, 2, -3));"}
+{"task_id": "Java/41", "the_input": "car_race_collision(5);"}
+{"task_id": "Java/42", "the_input": "incr_list(Arrays.asList(1, 2, 3));"}
+{"task_id": "Java/43", "the_input": "pairs_sum_to_zero(Arrays.asList(2, 4, -5, 3, 5, 7));"}
+{"task_id": "Java/44", "the_input": "change_base(8, 3);"}
+{"task_id": "Java/45", "the_input": "triangle_area(5, 3);"}
+{"task_id": "Java/46", "the_input": "fib4(5);"}
+{"task_id": "Java/47", "the_input": "median(Arrays.asList(3, 1, 2, 4, 5));"}
+{"task_id": "Java/48", "the_input": "is_palindrome(\"aba\");"}
+{"task_id": "Java/49", "the_input": "modp(3, 5);"}
+{"task_id": "Java/50", "the_input": "decode_shift(\"fgh\");"}
+{"task_id": "Java/51", "the_input": "remove_vowels(\"Hello World\");"}
+{"task_id": "Java/52", "the_input": "below_threshold(Arrays.asList(1, 2, 4, 10), 100);"}
+{"task_id": "Java/53", "the_input": "add(2, 3);"}
+{"task_id": "Java/54", "the_input": "same_chars(\"eabcdzzzz\", \"dddzzzzzzzddeddabc\");"}
+{"task_id": "Java/55", "the_input": "fib(10);"}
+{"task_id": "Java/56", "the_input": "correct_bracketing(\"<<>>\");"}
+{"task_id": "Java/57", "the_input": "monotonic(Arrays.asList(1, 2, 4, 20));"}
+{"task_id": "Java/58", "the_input": "common(Arrays.asList(1, 4, 3, 34, 653, 2, 5), Arrays.asList(5, 7, 1, 5, 9, 653, 121));"}
+{"task_id": "Java/59", "the_input": "largest_prime_factor(13195);"}
+{"task_id": "Java/60", "the_input": "sum_to_n(5);"}
+{"task_id": "Java/61", "the_input": "correct_bracketing(\"()\");"}
+{"task_id": "Java/62", "the_input": "derivative(Arrays.asList(1, 2, 3));"}
+{"task_id": "Java/63", "the_input": "fibfib(5);"}
+{"task_id": "Java/64", "the_input": "vowels_count(\"example\");"}
+{"task_id": "Java/65", "the_input": "circular_shift(12, 1);"}
+{"task_id": "Java/66", "the_input": "digitSum(\"abAB\");"}
+{"task_id": "Java/67", "the_input": "fruit_distribution(\"5 apples and 6 oranges\", 19);"}
+{"task_id": "Java/68", "the_input": "pluck(Arrays.asList(4, 2, 3));"}
+{"task_id": "Java/69", "the_input": "search(Arrays.asList(4, 1, 2, 2, 3, 1));"}
+{"task_id": "Java/70", "the_input": "strange_sort_list(Arrays.asList(1, 2, 3, 4));"}
+{"task_id": "Java/71", "the_input": "triangle_area(3, 4, 5);"}
+{"task_id": "Java/72", "the_input": "will_it_fly(Arrays.asList(3, 2, 3), 9);"}
+{"task_id": "Java/73", "the_input": "smallest_change(Arrays.asList(1, 2, 3, 4, 3, 2, 1));"}
+{"task_id": "Java/74", "the_input": "total_match(Arrays.asList(\"hi\", \"admin\"), Arrays.asList(\"hI\", \"hi\", \"hi\"));"}
+{"task_id": "Java/75", "the_input": "is_multiply_prime(30);"}
+{"task_id": "Java/76", "the_input": "is_simple_power(8, 2);"}
+{"task_id": "Java/77", "the_input": "iscube(1);"}
+{"task_id": "Java/78", "the_input": "hex_key(\"AB\");"}
+{"task_id": "Java/79", "the_input": "decimal_to_binary(15);"}
+{"task_id": "Java/80", "the_input": "is_happy(\"adb\");"}
+{"task_id": "Java/81", "the_input": "numerical_letter_grade(Arrays.asList(4.0, 3.0, 1.7, 2.0, 3.5));"}
+{"task_id": "Java/82", "the_input": "prime_length(\"Hello\");"}
+{"task_id": "Java/83", "the_input": "starts_one_ends(3);"}
+{"task_id": "Java/84", "the_input": "solve(1000);"}
+{"task_id": "Java/85", "the_input": "add(Arrays.asList(4, 2, 6, 7));"}
+{"task_id": "Java/86", "the_input": "anti_shuffle(\"Hello World!!!\");"}
+{"task_id": "Java/87", "the_input": "get_row(Arrays.asList(    Arrays.asList(1, 2, 3, 4, 5, 6),    Arrays.asList(1, 2, 3, 4, 1, 6),    Arrays.asList(1, 2, 3, 4, 5, 1)), 1);"}
+{"task_id": "Java/88", "the_input": "sort_array(Arrays.asList(2, 4, 3, 0, 1, 5, 6));"}
+{"task_id": "Java/89", "the_input": "encrypt(\"hello\");"}
+{"task_id": "Java/90", "the_input": "next_smallest(Arrays.asList(1, 2, 3, 4, 5));"}
+{"task_id": "Java/91", "the_input": "is_bored(\"The sky is blue. I am happy. I think it's great!\");"}
+{"task_id": "Java/92", "the_input": "any_int(5, 2, 7);"}
+{"task_id": "Java/93", "the_input": "encode(\"Hello World\");"}
+{"task_id": "Java/94", "the_input": "skjkasdkd(Arrays.asList(0, 3, 2, 1, 3, 5, 7, 4, 5, 5, 5, 2, 181, 32, 4, 32, 3, 2, 32, 324, 4, 3));"}
+{"task_id": "Java/95", "the_input": "check_dict_case(new HashMap<Object, Object>() {{    put(\"a\", \"apple\");    put(\"b\", \"banana\");}});"}
+{"task_id": "Java/96", "the_input": "count_up_to(10);"}
+{"task_id": "Java/97", "the_input": "multiply(148, 412);"}
+{"task_id": "Java/98", "the_input": "count_upper(\"aBCdEf\");"}
+{"task_id": "Java/99", "the_input": "closest_integer(\"14.5\");"}
+{"task_id": "Java/100", "the_input": "make_a_pile(3);"}
+{"task_id": "Java/101", "the_input": "words_string(\"Hello, world! This is a test.\");"}
+{"task_id": "Java/102", "the_input": "choose_num(12, 15);"}
+{"task_id": "Java/103", "the_input": "rounded_avg(10, 20);"}
+{"task_id": "Java/104", "the_input": "unique_digits(Arrays.asList(15, 33, 1422, 1));"}
+{"task_id": "Java/105", "the_input": "by_length(Arrays.asList(2, 1, 1, 4, 5, 8, 2, 3));"}
+{"task_id": "Java/106", "the_input": "f(5);"}
+{"task_id": "Java/107", "the_input": "even_odd_palindrome(12);"}
+{"task_id": "Java/108", "the_input": "count_nums(Arrays.asList(-1, 11, -11));"}
+{"task_id": "Java/109", "the_input": "move_one_ball(Arrays.asList(3, 4, 5, 1, 2));"}
+{"task_id": "Java/110", "the_input": "exchange(Arrays.asList(1, 3, 5), Arrays.asList(2, 4, 6));"}
+{"task_id": "Java/111", "the_input": "histogram(\"a b b a\");"}
+{"task_id": "Java/112", "the_input": "reverse_delete(\"abcde\", \"ae\");"}
+{"task_id": "Java/113", "the_input": "odd_count(Arrays.asList(\"1234567\", \"24680\", \"13579\"));"}
+{"task_id": "Java/114", "the_input": "minSubArraySum(Arrays.asList(2, 3, 4, 1, 2, 4));"}
+{"task_id": "Java/115", "the_input": "max_fill(Arrays.asList(    Arrays.asList(0, 0, 1, 0),    Arrays.asList(0, 1, 0, 0),    Arrays.asList(1, 1, 1, 1)), 1);"}
+{"task_id": "Java/116", "the_input": "sort_array(Arrays.asList(1, 5, 2, 3, 4));"}
+{"task_id": "Java/117", "the_input": "select_words(\"Mary had a little lamb\", 4);"}
+{"task_id": "Java/118", "the_input": "get_closest_vowel(\"yogurt\");"}
+{"task_id": "Java/119", "the_input": "match_parens(Arrays.asList(\"()(\", \")\"));"}
+{"task_id": "Java/120", "the_input": "maximum(Arrays.asList(-3, -4, 5), 3);"}
+{"task_id": "Java/121", "the_input": "solution(Arrays.asList(5, 8, 7, 1));"}
+{"task_id": "Java/122", "the_input": "add_elements(Arrays.asList(111, 21, 3, 4000, 5, 6, 7, 8, 9), 4);"}
+{"task_id": "Java/123", "the_input": "get_odd_collatz(5);"}
+{"task_id": "Java/124", "the_input": "valid_date(\"03-11-2000\");"}
+{"task_id": "Java/125", "the_input": "split_words(\"Hello world!\");"}
+{"task_id": "Java/126", "the_input": "is_sorted(Arrays.asList(1, 2, 3, 4, 5));"}
+{"task_id": "Java/127", "the_input": "intersection(Arrays.asList(1, 2), Arrays.asList(2, 3));"}
+{"task_id": "Java/128", "the_input": "prod_signs(Arrays.asList(1, 2, 2, -4));"}
+{"task_id": "Java/129", "the_input": "minPath(Arrays.asList(    Arrays.asList(1, 2, 3),    Arrays.asList(4, 5, 6),    Arrays.asList(7, 8, 9)), 3);"}
+{"task_id": "Java/130", "the_input": "tri(3);"}
+{"task_id": "Java/131", "the_input": "digits(235);"}
+{"task_id": "Java/132", "the_input": "is_nested(\"[[]]\");"}
+{"task_id": "Java/133", "the_input": "sum_squares(Arrays.asList(1.4, 4.2, 0.0));"}
+{"task_id": "Java/134", "the_input": "check_if_last_char_is_a_letter(\"apple pi e\");"}
+{"task_id": "Java/135", "the_input": "can_arrange(Arrays.asList(1, 2, 4, 3, 5));"}
+{"task_id": "Java/136", "the_input": "largest_smallest_integers(Arrays.asList(2, -3, 0, 1, -5, 4));"}
+{"task_id": "Java/137", "the_input": "compare_one(1, \"2,3\");"}
+{"task_id": "Java/138", "the_input": "is_equal_to_sum_even(8);"}
+{"task_id": "Java/139", "the_input": "special_factorial(4);"}
+{"task_id": "Java/140", "the_input": "fix_spaces(\" Example   3\");"}
+{"task_id": "Java/141", "the_input": "file_name_check(\"example.txt\");"}
+{"task_id": "Java/142", "the_input": "sum_squares(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12));"}
+{"task_id": "Java/143", "the_input": "words_in_sentence(\"This is a test\");"}
+{"task_id": "Java/144", "the_input": "simplify(\"1/5\", \"5/1\");"}
+{"task_id": "Java/145", "the_input": "order_by_points(Arrays.asList(1, 11, -1, -11, -12));"}
+{"task_id": "Java/146", "the_input": "specialFilter(Arrays.asList(33, -2, -3, 45, 21, 109));"}
+{"task_id": "Java/147", "the_input": "get_max_triples(5);"}
+{"task_id": "Java/148", "the_input": "bf(\"Earth\", \"Mars\");"}
+{"task_id": "Java/149", "the_input": "sorted_list_sum(Arrays.asList(\"ab\", \"a\", \"aaa\", \"cd\"));"}
+{"task_id": "Java/150", "the_input": "x_or_y(7, 34, 12);"}
+{"task_id": "Java/151", "the_input": "double_the_difference(Arrays.asList(1, 3, 2, 0));"}
+{"task_id": "Java/152", "the_input": "compare(Arrays.asList(1,2,3,4,5,1), Arrays.asList(1,2,3,4,2,-2));"}
+{"task_id": "Java/153", "the_input": "Strongest_Extension(\"my_class\", Arrays.asList(\"AA\", \"Be\", \"CC\"));"}
+{"task_id": "Java/154", "the_input": "cycpattern_check(\"hello\", \"ell\");"}
+{"task_id": "Java/155", "the_input": "even_odd_count(123);"}
+{"task_id": "Java/156", "the_input": "int_to_mini_roman(19);"}
+{"task_id": "Java/157", "the_input": "right_angle_triangle(3, 4, 5);"}
+{"task_id": "Java/158", "the_input": "find_max(Arrays.asList(\"name\", \"of\", \"string\"));"}
+{"task_id": "Java/159", "the_input": "eat(5, 6, 10);"}
+{"task_id": "Java/160", "the_input": "do_algebra(Arrays.asList(\"+\", \"*\", \"-\"), Arrays.asList(2, 3, 4, 5));"}
+{"task_id": "Java/161", "the_input": "solve(\"Hello, World!\");"}
+{"task_id": "Java/162", "the_input": "string_to_md5(\"Lorem ipsum dolor sit amet\");"}
+{"task_id": "Java/163", "the_input": "generate_integers(2, 8);"}

@@ -1,0 +1,164 @@
+{"task_id": "CPP/0", "the_input": "has_close_elements({1.0, 2.0, 3.0}, 0.5);"}
+{"task_id": "CPP/1", "the_input": "separate_paren_groups(\"() (( )) (( )( ))\");"}
+{"task_id": "CPP/2", "the_input": "truncate_number(3.5);"}
+{"task_id": "CPP/3", "the_input": "below_zero({1, 2, -4, 5});"}
+{"task_id": "CPP/4", "the_input": "mean_absolute_deviation({1.0, 2.0, 3.0, 4.0});"}
+{"task_id": "CPP/5", "the_input": "intersperse({1, 2, 3}, 4);"}
+{"task_id": "CPP/6", "the_input": "parse_nested_parens(\"(()()) ((())) () ((())()())\");"}
+{"task_id": "CPP/7", "the_input": "filter_by_substring({\"abc\", \"bacd\", \"cde\", \"vector\"}, \"a\");\n"}
+{"task_id": "CPP/8", "the_input": "sum_product({1, 2, 3, 4});"}
+{"task_id": "CPP/9", "the_input": "rolling_max({1, 2, 3, 2, 3, 4, 2});"}
+{"task_id": "CPP/10", "the_input": "make_palindrome(\"race\");\n"}
+{"task_id": "CPP/11", "the_input": "string_xor(\"010\", \"110\");"}
+{"task_id": "CPP/12", "the_input": "longest({\"a\", \"bb\", \"ccc\"});\n"}
+{"task_id": "CPP/13", "the_input": "greatest_common_divisor(3, 5);"}
+{"task_id": "CPP/14", "the_input": "all_prefixes(\"abc\");"}
+{"task_id": "CPP/15", "the_input": "string_sequence(5);"}
+{"task_id": "CPP/16", "the_input": "count_distinct_characters(\"xyzXYZ\");\n"}
+{"task_id": "CPP/17", "the_input": "parse_music(\"o o| .| o| o| .| .| .| .| o o\");"}
+{"task_id": "CPP/18", "the_input": "how_many_times(\"aaaa\", \"aa\");\n"}
+{"task_id": "CPP/19", "the_input": "sort_numbers(\"three one five\");"}
+{"task_id": "CPP/20", "the_input": "find_closest_elements({1.0, 2.0, 3.0, 4.0, 5.0, 2.2});\n"}
+{"task_id": "CPP/21", "the_input": "rescale_to_unit({1.0, 2.0, 3.0, 4.0, 5.0});"}
+{"task_id": "CPP/22", "the_input": "list_any values = {1, 2, 3, \"abc\", {}, {}};\nfilter_integers(values);\n"}
+{"task_id": "CPP/23", "the_input": "strlen(\"example\");"}
+{"task_id": "CPP/24", "the_input": "largest_divisor(15);"}
+{"task_id": "CPP/25", "the_input": "factorize(8);"}
+{"task_id": "CPP/26", "the_input": "remove_duplicates({1, 2, 3, 2, 4});\n"}
+{"task_id": "CPP/27", "the_input": "flip_case(\"Hello\");"}
+{"task_id": "CPP/28", "the_input": "concatenate({\"Hello\", \" \", \"World\"});"}
+{"task_id": "CPP/29", "the_input": "filter_by_prefix({\"abc\", \"bcd\", \"cde\", \"vector\"}, \"a\");\n"}
+{"task_id": "CPP/30", "the_input": "get_positive({-1, 2, -4, 5, 6});"}
+{"task_id": "CPP/31", "the_input": "is_prime(1);"}
+{"task_id": "CPP/32", "the_input": "find_zero({1, 2});\n"}
+{"task_id": "CPP/33", "the_input": "sort_third({5, 6, 3, 4, 8, 9, 2});\n"}
+{"task_id": "CPP/34", "the_input": "unique({5, 3, 5, 2, 3, 3, 9, 0, 123});"}
+{"task_id": "CPP/35", "the_input": "max_element({1, 2, 3});"}
+{"task_id": "CPP/36", "the_input": "fizz_buzz(50);"}
+{"task_id": "CPP/37", "the_input": "sort_even({5, 6, 3, 4});"}
+{"task_id": "CPP/38", "the_input": "decode_cyclic(\"bcadefghi\");"}
+{"task_id": "CPP/39", "the_input": "prime_fib(1);"}
+{"task_id": "CPP/40", "the_input": "triples_sum_to_zero({1, 2, -3});"}
+{"task_id": "CPP/41", "the_input": "car_race_collision(5);\n"}
+{"task_id": "CPP/42", "the_input": "incr_list({1, 2, 3});"}
+{"task_id": "CPP/43", "the_input": "pairs_sum_to_zero({2, 4, -5, 3, 5, 7});"}
+{"task_id": "CPP/44", "the_input": "change_base(8, 3);"}
+{"task_id": "CPP/45", "the_input": "triangle_area(5, 3);"}
+{"task_id": "CPP/46", "the_input": "fib4(5);"}
+{"task_id": "CPP/47", "the_input": "median({3, 1, 2, 4, 5});"}
+{"task_id": "CPP/48", "the_input": "is_palindrome(\"racecar\");"}
+{"task_id": "CPP/49", "the_input": "modp(3, 5);"}
+{"task_id": "CPP/50", "the_input": "decode_shift(\"fghij\");"}
+{"task_id": "CPP/51", "the_input": "remove_vowels(\"Hello, World!\");"}
+{"task_id": "CPP/52", "the_input": "below_threshold({1, 2, 4, 10}, 100);"}
+{"task_id": "CPP/53", "the_input": "add(2, 3);"}
+{"task_id": "CPP/54", "the_input": "same_chars(\"eabcdzzzz\", \"dddzzzzzzzddeddabc\");"}
+{"task_id": "CPP/55", "the_input": "fib(10);"}
+{"task_id": "CPP/56", "the_input": "correct_bracketing(\"<>\");"}
+{"task_id": "CPP/57", "the_input": "monotonic({1, 2, 4, 20});"}
+{"task_id": "CPP/58", "the_input": "common({1, 4, 3, 34, 653, 2, 5}, {5, 7, 1, 5, 9, 653, 121});"}
+{"task_id": "CPP/59", "the_input": "largest_prime_factor(13195);"}
+{"task_id": "CPP/60", "the_input": "sum_to_n(5);"}
+{"task_id": "CPP/61", "the_input": "correct_bracketing(\"()\");"}
+{"task_id": "CPP/62", "the_input": "derivative({3, 1, 2, 4, 5});"}
+{"task_id": "CPP/63", "the_input": "fibfib(5);"}
+{"task_id": "CPP/64", "the_input": "vowels_count(\"example\");\n"}
+{"task_id": "CPP/65", "the_input": "circular_shift(12, 1);"}
+{"task_id": "CPP/66", "the_input": "digitSum(\"abAB\");"}
+{"task_id": "CPP/67", "the_input": "fruit_distribution(\"5 apples and 6 oranges\", 19);\n"}
+{"task_id": "CPP/68", "the_input": "pluck({4, 2, 3});\n"}
+{"task_id": "CPP/69", "the_input": "search({4, 1, 2, 2, 3, 1});"}
+{"task_id": "CPP/70", "the_input": "strange_sort_list({1, 2, 3, 4});"}
+{"task_id": "CPP/71", "the_input": "triangle_area(3, 4, 5);"}
+{"task_id": "CPP/72", "the_input": "will_it_fly({3, 2, 3}, 9);"}
+{"task_id": "CPP/73", "the_input": "smallest_change({1, 2, 3, 4, 3, 2, 1});\n"}
+{"task_id": "CPP/74", "the_input": "total_match({\"hi\", \"admin\"}, {\"hI\", \"Hi\"});"}
+{"task_id": "CPP/75", "the_input": "is_multiply_prime(30);"}
+{"task_id": "CPP/76", "the_input": "is_simple_power(8, 2);"}
+{"task_id": "CPP/77", "the_input": "iscube(1);"}
+{"task_id": "CPP/78", "the_input": "hex_key(\"ABED1A33\");\n"}
+{"task_id": "CPP/79", "the_input": "decimal_to_binary(15);"}
+{"task_id": "CPP/80", "the_input": "is_happy(\"abc\");"}
+{"task_id": "CPP/81", "the_input": "numerical_letter_grade({4.0, 3.0, 1.7, 2.0, 3.5});\n"}
+{"task_id": "CPP/82", "the_input": "prime_length(\"Hello\");"}
+{"task_id": "CPP/83", "the_input": "starts_one_ends(2);"}
+{"task_id": "CPP/84", "the_input": "solve(1000);"}
+{"task_id": "CPP/85", "the_input": "add({4, 2, 6, 7});"}
+{"task_id": "CPP/86", "the_input": "anti_shuffle(\"Hello World!!!\");"}
+{"task_id": "CPP/87", "the_input": "get_row({\n  {1,2,3,4,5,6},\n  {1,2,3,4,1,6},\n  {1,2,3,4,5,1}\n}, 1);\n"}
+{"task_id": "CPP/88", "the_input": "sort_array({2, 4, 3, 0, 1, 5});"}
+{"task_id": "CPP/89", "the_input": "encrypt(\"example\");"}
+{"task_id": "CPP/90", "the_input": "next_smallest({1, 2, 3, 4, 5});\nnext_smallest({5, 1, 4, 3, 2});\nnext_smallest({});\nnext_smallest({1, 1});\n"}
+{"task_id": "CPP/91", "the_input": "is_bored(\"The sky is blue. The sun is shining. I love this weather\");"}
+{"task_id": "CPP/92", "the_input": "any_int(5, 2, 7);"}
+{"task_id": "CPP/93", "the_input": "encode(\"Hello World\");"}
+{"task_id": "CPP/94", "the_input": "skjkasdkd({0,3,2,1,3,5,7,4,5,5,5,2,181,32,4,32,3,2,32,324,4,3});"}
+{"task_id": "CPP/95", "the_input": "check_dict_case({{\"a\",\"apple\"}, {\"b\",\"banana\"}});\ncheck_dict_case({{\"a\",\"apple\"}, {\"A\",\"banana\"}, {\"B\",\"banana\"}});\ncheck_dict_case({{\"a\",\"apple\"}, {\"8\",\"banana\"}, {\"a\",\"apple\"}});\ncheck_dict_case({{\"Name\",\"John\"}, {\"Age\",\"36\"}, {\"City\",\"Houston\"}});\ncheck_dict_case({{\"STATE\",\"NC\"}, {\"ZIP\",\"12345\"}});\n"}
+{"task_id": "CPP/96", "the_input": "count_up_to(10);"}
+{"task_id": "CPP/97", "the_input": "multiply(148, 412);"}
+{"task_id": "CPP/98", "the_input": "count_upper(\"aBCdEf\");"}
+{"task_id": "CPP/99", "the_input": "closest_integer(\"14.5\");"}
+{"task_id": "CPP/100", "the_input": "make_a_pile(3);"}
+{"task_id": "CPP/101", "the_input": "words_string(\"Hi, my name is John\");"}
+{"task_id": "CPP/102", "the_input": "choose_num(12, 15);"}
+{"task_id": "CPP/103", "the_input": "rounded_avg(1, 5);\nrounded_avg(7, 5);\nrounded_avg(10, 20);\nrounded_avg(20, 33);\n"}
+{"task_id": "CPP/104", "the_input": "unique_digits({15, 33, 1422, 1});"}
+{"task_id": "CPP/105", "the_input": "by_length({2, 1, 1, 4, 5, 8, 2, 3});\n"}
+{"task_id": "CPP/106", "the_input": "f(5);"}
+{"task_id": "CPP/107", "the_input": "even_odd_palindrome(12);\n"}
+{"task_id": "CPP/108", "the_input": "count_nums({-1, 11, -11});\n"}
+{"task_id": "CPP/109", "the_input": "move_one_ball({3, 4, 5, 1, 2});\n"}
+{"task_id": "CPP/110", "the_input": "exchange({1, 3, 5}, {2, 4, 6});"}
+{"task_id": "CPP/111", "the_input": "histogram(\"a b b a\");\n"}
+{"task_id": "CPP/112", "the_input": "reverse_delete(\"abcde\", \"ae\");"}
+{"task_id": "CPP/113", "the_input": "odd_count({\"1234567\", \"24680\", \"13579\"});\n"}
+{"task_id": "CPP/114", "the_input": "minSubArraySum({2, 3, 4, 1, 2, 4});"}
+{"task_id": "CPP/115", "the_input": "max_fill({{0,0,1,0}, {0,1,0,0}, {1,1,1,1}}, 1);\n"}
+{"task_id": "CPP/116", "the_input": "sort_array({1, 5, 2, 3, 4});"}
+{"task_id": "CPP/117", "the_input": "select_words(\"Mary had a little lamb\", 4);\n"}
+{"task_id": "CPP/118", "the_input": "get_closest_vowel(\"yogurt\");"}
+{"task_id": "CPP/119", "the_input": "match_parens({\"()\", \"()\"});"}
+{"task_id": "CPP/120", "the_input": "maximum({-3, -4, 5}, 3);\nmaximum({4, -4, 4}, 2);\nmaximum({-3, 2, 1, 2, -1, -2, 1}, 1);\n"}
+{"task_id": "CPP/121", "the_input": "solution({5, 8, 7, 1});\nsolution({3, 3, 3, 3, 3});\nsolution({30, 13, 24, 321});\n"}
+{"task_id": "CPP/122", "the_input": "add_elements({111, 21, 3, 4000, 5, 6, 7, 8, 9}, 4);\n"}
+{"task_id": "CPP/123", "the_input": "get_odd_collatz(5);"}
+{"task_id": "CPP/124", "the_input": "valid_date(\"03-11-2000\");"}
+{"task_id": "CPP/125", "the_input": "split_words(\"Hello world!\");"}
+{"task_id": "CPP/126", "the_input": "is_sorted({1, 2, 3, 4, 5});"}
+{"task_id": "CPP/127", "the_input": "intersection({1, 3}, {2, 4});\n"}
+{"task_id": "CPP/128", "the_input": "prod_signs({1, 2, 2, -4});"}
+{"task_id": "CPP/129", "the_input": "minPath({{1, 2, 3}, {4, 5, 6}, {7, 8, 9}}, 3);\n"}
+{"task_id": "CPP/130", "the_input": "tri(3);\n"}
+{"task_id": "CPP/131", "the_input": "digits(235);"}
+{"task_id": "CPP/132", "the_input": "is_nested(\"[[]]\");"}
+{"task_id": "CPP/133", "the_input": "sum_squares({1.4, 4.2, 0});\n"}
+{"task_id": "CPP/134", "the_input": "check_if_last_char_is_a_letter(\"apple pie\");\ncheck_if_last_char_is_a_letter(\"apple pi e\");\ncheck_if_last_char_is_a_letter(\"apple pi e \");\ncheck_if_last_char_is_a_letter(\"\");\n"}
+{"task_id": "CPP/135", "the_input": "can_arrange({1, 2, 4, 3, 5});\ncan_arrange({1, 2, 3});\ncan_arrange({5, 4, 3, 2, 1});\ncan_arrange({1, 3, 2, 4, 5});\ncan_arrange({10, 20, 30, 25, 40});\n"}
+{"task_id": "CPP/136", "the_input": "largest_smallest_integers({-3, -1, 0, 2, 4});\n"}
+{"task_id": "CPP/137", "the_input": "compare_one(1, \"2,3\");\n"}
+{"task_id": "CPP/138", "the_input": "is_equal_to_sum_even(8);"}
+{"task_id": "CPP/139", "the_input": "special_factorial(4);"}
+{"task_id": "CPP/140", "the_input": "fix_spaces(\" Example   3\");"}
+{"task_id": "CPP/141", "the_input": "file_name_check(\"example.txt\");"}
+{"task_id": "CPP/142", "the_input": "sum_squares({1, 2, 3});"}
+{"task_id": "CPP/143", "the_input": "words_in_sentence(\"This is a test\");\n"}
+{"task_id": "CPP/144", "the_input": "simplify(\"1/5\", \"5/1\");"}
+{"task_id": "CPP/145", "the_input": "order_by_points({1, 11, -1, -11, -12});\n"}
+{"task_id": "CPP/146", "the_input": "specialFilter({15, -73, 14, -15});"}
+{"task_id": "CPP/147", "the_input": "get_max_triples(5);"}
+{"task_id": "CPP/148", "the_input": "bf(\"Jupiter\", \"Neptune\");\nbf(\"Earth\", \"Mercury\");\nbf(\"Mercury\", \"Uranus\");\nbf(\"Pluto\", \"Mars\"); // Invalid input, should return empty vector\n"}
+{"task_id": "CPP/149", "the_input": "sorted_list_sum({\"aa\", \"a\", \"aaa\"});"}
+{"task_id": "CPP/150", "the_input": "x_or_y(7, 34, 12);"}
+{"task_id": "CPP/151", "the_input": "double_the_difference({1, 3, 2, 0});\n"}
+{"task_id": "CPP/152", "the_input": "compare({1,2,3,4,5,1}, {1,2,3,4,2,-2});"}
+{"task_id": "CPP/153", "the_input": "Strongest_Extension(\"Slices\", {\"SErviNGSliCes\", \"Cheese\", \"StuFfed\"});\n"}
+{"task_id": "CPP/154", "the_input": "cycpattern_check(\"abcd\", \"abd\");"}
+{"task_id": "CPP/155", "the_input": "even_odd_count(123);"}
+{"task_id": "CPP/156", "the_input": "int_to_mini_roman(19);"}
+{"task_id": "CPP/157", "the_input": "right_angle_triangle(3, 4, 5);"}
+{"task_id": "CPP/158", "the_input": "find_max({\"name\", \"of\", \"string\"});\n"}
+{"task_id": "CPP/159", "the_input": "eat(5, 6, 10);"}
+{"task_id": "CPP/160", "the_input": "do_algebra({\"*\", \"-\"}, {2, 3, 4});\n"}
+{"task_id": "CPP/161", "the_input": "solve(\"Hello World!\");"}
+{"task_id": "CPP/162", "the_input": "string_to_md5(\"\");"}
+{"task_id": "CPP/163", "the_input": "generate_integers(2, 8);"}
