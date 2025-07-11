@@ -25,6 +25,6 @@ bash evaluate_humaneval_x.sh "Path to the jsonl file" java
 ```
 
 ## Notice
-- 1. Add API key to access LLMs.
-- 2. Add Path to run the Python file.
-- 3. There are lots C++ and Java lib to add, or you will get a lower result. Our results are in data folder.
+ 1. Add API key to access LLMs.
+ 2. Add Path to run the Python file.
+ 3. There are lots C++ and Java lib to add, or you will get a lower result. Our results are in data folder.
